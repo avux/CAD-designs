@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / temp
+*.tmp
+*.bak
+*.log
+~$*
+
+# SolidWorks lock/temp files
+~$*.sld*
+*.swp
+
+# FreeCAD backups
+*.FCStd1
+*.FCBak
+
+# Fusion 360 / Inventor backups
+*.f3z.bak
+OldVersions/
+
+# AutoCAD backups
+*.bak
+*.dwl
+*.dwl2
